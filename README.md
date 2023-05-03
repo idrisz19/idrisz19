@@ -5,6 +5,6 @@ Did you know that <a href="https://www.gnu.org/software/repo-criteria-evaluation
 <ul>
     <li><a href="https://gitgud.io/">GitGud</a> on account of <a href="https://gitgud.io/-/users/terms"> its <i>laissez faire</i> Terms of Service</a>, although I'm not fond of its GitLab codebase;</li>
     <li><a href="https://sourcehut.org/">Sourcehut</a> on account of <a href="https://sr.ht/~sircmpwn/sourcehut/">its free codebase</a>, although <a href="https://man.sr.ht/terms.md">its Terms of Service can be troublesome to follow</a>;</li>
-    <li><a href="https://codeberg.org/">Codeberg</a> on account of its free <a href="https://forgejo.org/">Forgejo</a> codebase</li>, although, likewise, <a href="https://codeberg.org/Codeberg/org/src/branch/main/TermsOfUse.md">its Terms of Use can be troublesome to follow</a>; or</li>
+    <li><a href="https://codeberg.org/">Codeberg</a> on account of its free <a href="https://forgejo.org/">Forgejo</a> codebase, although, likewise, <a href="https://codeberg.org/Codeberg/org/src/branch/main/TermsOfUse.md">its Terms of Use can be troublesome to follow</a>; or</li>
     <li>If you can afford to spend 25 USD per month, then you might want to use <a href="https://hostedgitea.com/">Hosted Gitea</a></li>
 </ul>
